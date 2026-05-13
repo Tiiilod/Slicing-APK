@@ -24,11 +24,13 @@ Nama produk
 Harga produk berwarna merah
 Rating dengan ikon bintang (contoh: 2.56, 4.64)
 Nama brand/merk di bagian bawah
+
 Contoh produk yang ditampilkan:
 Essence Mascara Lash Princess – $9.99
 Eyeshadow Palette with Mirror – $19.99
 Powder Canister – $14.99
 Red Lipstick – $12.99
+
 Ciri Desain:
 Menggunakan card layout dengan rounded corner
 Warna dominan putih dan abu-abu dengan aksen oranye/merah
