@@ -1,38 +1,16 @@
-<img width="619" height="942" alt="Screenshot 2026-04-28 111332" src="https://github.com/user-attachments/assets/eb0cb035-2db8-46cc-9656-06bfacd8963b" />
+# slicing_apk
 
+A new Flutter project.
 
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-Deskripsi Tampilan Aplikasi E-Commerce Kosmetik
+A few resources to get you started if this is your first Flutter project:
 
-Tampilan aplikasi menampilkan halaman utama (home) dari sebuah aplikasi belanja kosmetik dengan desain modern dan sederhana.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Di bagian atas (header) terdapat:
-
-Kolom search bar dengan placeholder “Search…” untuk mencari produk
-Ikon kamera (kemungkinan untuk scan atau upload gambar)
-Ikon keranjang belanja (cart)
-Ikon chat/pesan
-
-Bagian konten utama menampilkan daftar produk dalam bentuk grid 2 kolom, dengan setiap item berupa kartu (card) yang berisi:
-
-Komponen pada setiap produk:
-Gambar produk di bagian atas
-Label diskon di pojok kanan atas (contoh: -10%, -18%)
-Tag “Promo” berwarna kuning
-Nama produk
-Harga produk berwarna merah
-Rating dengan ikon bintang (contoh: 2.56, 4.64)
-Nama brand/merk di bagian bawah
-
-Contoh produk yang ditampilkan:
-Essence Mascara Lash Princess – $9.99
-Eyeshadow Palette with Mirror – $19.99
-Powder Canister – $14.99
-Red Lipstick – $12.99
-
-Ciri Desain:
-Menggunakan card layout dengan rounded corner
-Warna dominan putih dan abu-abu dengan aksen oranye/merah
-Tampilan bersih (clean UI) dan mudah dibaca
-Fokus pada gambar produk dan harga
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
